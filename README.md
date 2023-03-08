@@ -6,11 +6,14 @@
 </h1>
 <h3 align="center">A full stack web developer from India</h3>
 
-- 🌱 I’m currently learning more about **Blockchain development**
+<h3>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack</i>
+</h3>
 
-- 💬 Ask me about **C,C++,ReactJS,HTML,CSS,Javascript,Solidity,Express**
-
-
+<h3>
+    <i>- Currently learning more about BlockChain Development</i>
+</h3>
+<br>
 <h1><i>Let's Connect</i></h1>
 
 
